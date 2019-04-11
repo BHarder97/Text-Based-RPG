@@ -1,0 +1,322 @@
+# depslib dependency file v1.0
+1476155294 source:c:\users\brandon\desktop\codeblocks\buildingrpg\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Player.h"
+	"Room.h"
+	"Items.h"
+
+1476155235 c:\users\brandon\desktop\codeblocks\buildingrpg\include\player.h
+	"Items.h"
+	"Room.h"
+	<string>
+	<vector>
+
+1476150618 c:\users\brandon\desktop\codeblocks\buildingrpg\include\items.h
+	<string>
+
+1476154764 c:\users\brandon\desktop\codeblocks\buildingrpg\include\room.h
+	"Player.h"
+	"Items.h"
+	<string>
+	<vector>
+
+1476150618 source:c:\users\brandon\desktop\codeblocks\buildingrpg\src\items.cpp
+	"Items.h"
+
+1476155218 source:c:\users\brandon\desktop\codeblocks\buildingrpg\src\player.cpp
+	<string>
+	<iostream>
+	"Player.h"
+
+1476153920 source:c:\users\brandon\desktop\codeblocks\buildingrpg\src\room.cpp
+	"Room.h"
+	<iostream>
+	<string>
+	<vector>
+
+1481694812 source:f:\c++stuff\buildingrpg\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Player.h"
+	"Room.h"
+	"Items.h"
+	"NPCDialogue.h"
+	"Enemies.h"
+
+1481694140 f:\c++stuff\buildingrpg\include\player.h
+	"Items.h"
+	"Room.h"
+	<string>
+	<vector>
+
+1476150620 f:\c++stuff\buildingrpg\include\items.h
+	<string>
+
+1481691582 f:\c++stuff\buildingrpg\include\room.h
+	"Player.h"
+	"Items.h"
+	<string>
+	<vector>
+
+1476150620 source:f:\c++stuff\buildingrpg\src\items.cpp
+	"Items.h"
+
+1481694140 source:f:\c++stuff\buildingrpg\src\player.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Player.h"
+
+1481692530 source:f:\c++stuff\buildingrpg\src\room.cpp
+	"Room.h"
+	"Enemies.h"
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1476147020 source:e:\c++stuff\buildingrpg\src\items.cpp
+	"Items.h"
+
+1476147020 e:\c++stuff\buildingrpg\include\items.h
+	<string>
+
+1481738860 source:e:\c++stuff\buildingrpg\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Player.h"
+	"Room.h"
+	"Items.h"
+	"NPCDialogue.h"
+	"Enemies.h"
+
+1481736424 e:\c++stuff\buildingrpg\include\player.h
+	"Items.h"
+	"Room.h"
+	<string>
+	<vector>
+
+1481691582 e:\c++stuff\buildingrpg\include\room.h
+	"Player.h"
+	"Items.h"
+	<string>
+	<vector>
+
+1481737250 source:e:\c++stuff\buildingrpg\src\player.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Player.h"
+
+1481738102 source:e:\c++stuff\buildingrpg\src\room.cpp
+	"Room.h"
+	"Enemies.h"
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1476211586 source:k:\c++stuff\buildingrpg\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Player.h"
+	"Room.h"
+	"Items.h"
+
+1476332254 k:\c++stuff\buildingrpg\include\player.h
+	"Items.h"
+	"Room.h"
+	<string>
+	<vector>
+
+1476150620 k:\c++stuff\buildingrpg\include\items.h
+	<string>
+
+1476211586 k:\c++stuff\buildingrpg\include\room.h
+	"Player.h"
+	"Items.h"
+	<string>
+	<vector>
+
+1476150620 source:k:\c++stuff\buildingrpg\src\items.cpp
+	"Items.h"
+
+1476334154 source:k:\c++stuff\buildingrpg\src\player.cpp
+	<string>
+	<iostream>
+	"Player.h"
+
+1476329350 source:k:\c++stuff\buildingrpg\src\room.cpp
+	"Room.h"
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1481693578 source:e:\c++stuff\buildingrpg\src\npcdialogue.cpp
+	"NPCDialogue.h"
+	<iostream>
+	<string>
+
+1481693200 e:\c++stuff\buildingrpg\include\npcdialogue.h
+	<string>
+
+1481693578 source:f:\c++stuff\buildingrpg\src\npcdialogue.cpp
+	"NPCDialogue.h"
+	<iostream>
+	<string>
+
+1481693200 f:\c++stuff\buildingrpg\include\npcdialogue.h
+	<string>
+
+1481524486 f:\c++stuff\buildingrpg\include\npctree.h
+	<string>
+
+1481685602 source:f:\c++stuff\buildingrpg\src\enemies.cpp
+	"Enemies.h"
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+
+1481576270 f:\c++stuff\buildingrpg\include\enemies.h
+
+1481525964 e:\c++stuff\buildingrpg\include\npctree.h
+	<string>
+
+1481737234 source:e:\c++stuff\buildingrpg\src\enemies.cpp
+	"Enemies.h"
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+
+1481737234 e:\c++stuff\buildingrpg\include\enemies.h
+
+1541533082 source:d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Player.h"
+	"Room.h"
+	"Items.h"
+	"NPCDialogue.h"
+	"Enemies.h"
+
+1541532832 d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\player.h
+	"Items.h"
+	"Room.h"
+	<string>
+	<vector>
+
+1541532864 d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\items.h
+	<string>
+
+1541532864 d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\room.h
+	"Player.h"
+	"Items.h"
+	<string>
+	<vector>
+
+1541532864 d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\npcdialogue.h
+	<string>
+
+1541532864 d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\enemies.h
+
+1481737234 source:d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\enemies.cpp
+	"Enemies.h"
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+
+1476150620 source:d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\items.cpp
+	"Items.h"
+
+1545345868 source:d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\npcdialogue.cpp
+	"NPCDialogue.h"
+	<iostream>
+	<string>
+
+1481737250 source:d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\player.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Player.h"
+
+1481738102 source:d:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\room.cpp
+	"Room.h"
+	"Enemies.h"
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1541533082 source:h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Player.h"
+	"Room.h"
+	"Items.h"
+	"NPCDialogue.h"
+	"Enemies.h"
+
+1541532832 h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\player.h
+	"Items.h"
+	"Room.h"
+	<string>
+	<vector>
+
+1541532864 h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\items.h
+	<string>
+
+1541532864 h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\room.h
+	"Player.h"
+	"Items.h"
+	<string>
+	<vector>
+
+1541532864 h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\npcdialogue.h
+	<string>
+
+1541532864 h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\include\enemies.h
+
+1481737234 source:h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\enemies.cpp
+	"Enemies.h"
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+
+1476150620 source:h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\items.cpp
+	"Items.h"
+
+1545345868 source:h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\npcdialogue.cpp
+	"NPCDialogue.h"
+	<iostream>
+	<string>
+
+1481737250 source:h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\player.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Player.h"
+
+1481738102 source:h:\iowalakesstuff\c++stuff\buildingrpg(3)\buildingrpg\src\room.cpp
+	"Room.h"
+	"Enemies.h"
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
